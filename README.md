@@ -1,18 +1,20 @@
 <!--h1 without bottom border-->
-<h1 style="display: inline-block">Hello 👋, I'm Nathan</h1>
+<h1 align="center" style="display: inline-block">Hello 👋, I'm Nathan</h1>
 <div id="user-content-toc">
-  <ul>
-    <summary><h3 style="display: inline-block">Frontend Developer</h2></summary>
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Software Developer </h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m use technologies & tools like: `React.js`, `firebase`, `tailwindcss`, `sass`, `Git & Github` to build unique web application.
+<ul align="center">
+🔭 I’m use technologies & tools like: `React.js`, `firebase`, `tailwindcss`, `sass`, `Git & Github` to build unique web application.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+🌱 I’m currently learning to put together multiple **Hyper Beast Stack for Scalable Applications.**
 
-- 📫 Feel free to send a mail to: **nathancodes05@gmail.com**
+📫 Feel free to send a mail to: **nathancodes05@gmail.com**
+</ul>
 <!--Intro end-->
 
 <!--h1 without bottom border-->
@@ -24,7 +26,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,github,html,js,react,tailwind,firebase,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,scss,github,html,js,react,express,tailwind,firebase,vscode&perline=14" />
   </a>
 </p>
 
