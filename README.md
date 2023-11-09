@@ -25,8 +25,8 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,scss,github,html,js,nodejs,nextjs,react,express,tailwind,stackoverflow,firebase,vercel,vscode&perline=14" />
+  <a align="center" href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,scss,github,js,react,tailwind,stackoverflow,firebase,vscode&perline=14" />
   </a>
 </p>
 
