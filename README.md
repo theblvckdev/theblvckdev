@@ -9,7 +9,7 @@
 
 <!--Intro start-->
 <ul align="center">
-🔭 I’m use technologies & tools like: `React.js`, `firebase`, `tailwindcss`, `sass`, `Git & Github` to build unique web application.
+🔭 I use technologies & tools like: `React.js`, `firebase`, `tailwindcss`, `sass`, `Git & Github` to build unique web application.
 
 🌱 I’m currently learning to put together multiple **Hyper Beast Stack for Scalable Applications.**
 
