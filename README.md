@@ -9,7 +9,7 @@
 
 <!--Intro start-->
 <ul align="center">
-🔭 I use technologies & tools like: `React.js`, `firebase`, `tailwindcss`, `sass`, `Git & Github` to build unique web application.
+🔭 I use technologies & tools like: `React.js`, `nodejs`, `expressjs`, `mysql`, `tailwindcss`, `sass`, `Git & Github` to build unique web application.
 
 🌱 I’m currently learning to put together multiple **Hyper Beast Stack for Scalable Applications.**
 
@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a align="center" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,scss,github,js,react,tailwind,stackoverflow,firebase,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,scss,github,js,react,tailwind,nodejs,expressjs,mysql,vscode&perline=14" />
   </a>
 </p>
 
