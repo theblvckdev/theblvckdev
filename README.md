@@ -9,10 +9,7 @@
 
 <!--Intro start-->
 <ul align="center">
-🔭 I use technologies & tools like: `React.js`, `nodejs`, `expressjs`, `mysql`, `tailwindcss`, `sass`, `Git & Github` to build unique web application.
-
 🌱 I’m currently learning to put together multiple **Hyper Beast Stack for Scalable Applications.**
-
 📫 Feel free to send a mail to: **nathancodes05@gmail.com**
 </ul>
 <!--Intro end-->
