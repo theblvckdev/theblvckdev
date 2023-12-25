@@ -1,5 +1,5 @@
 <!--h1 without bottom border-->
-<h1 style="display: inline-block">Hello 👋, I'm Nathan - I'm a Software Engineer from Nigeria </h1>
+<h1 style="display: inline-block">Hello 👋, I'm Nathan <br /> I'm a Software Engineer from Nigeria </h1>
 
 <!--Intro start-->
 <div>
@@ -18,7 +18,7 @@
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,scss,github,js,react,tailwind,nodejs,expressjs,mysql,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,scss,github,js,ts,react,tailwind,nodejs,expressjs,mongodb,vscode&perline=14" />
   </a>
 </p>
 
