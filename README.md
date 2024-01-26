@@ -1,5 +1,5 @@
 <!--h1 without bottom border-->
-<h1 style="display: inline-block">Hello 👋, I'm Nathan <br /> I'm a Frontend Software Engineer. </h1>
+<h1 style="display: inline-block">Hello 👋, I'm Nathan <br /> I'm a Software Engineer. </h1>
 
 <!--Intro start-->
 <div>
