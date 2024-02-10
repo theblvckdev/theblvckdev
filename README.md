@@ -18,6 +18,6 @@
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,nodejs,expressjs,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,js,nodejs,expressjs,mysql,vscode,postman&perline=14" />
   </a>
 </p>
