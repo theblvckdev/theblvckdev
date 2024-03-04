@@ -1,11 +1,8 @@
-## Hi, I'm Nathan, a software engineer passionate about building.
+#### Hi there ✌, 
+#### I'm Nathaniel Joseph, a Bakend engineer.
 
 - 🌏 I'm mostly active within the JavaScript Community.
 
-- 👀 I’m interested in Backend engineering in general.
-
 - 🚀 I’m currently learning how to become a better Software Engineer.
   
-- 📫 How to reach me nathacodes05@gmail.com.
-
-- Fun Fact - Given time, there's nothing I can't learn.
+- 📫 Reach me via: nathacodes05@gmail.com.
