@@ -1,5 +1,5 @@
-#### Hi there ✌, 
-#### I'm Nathaniel Joseph, a Bakend engineer.
+### Hi there ✌, 
+### I'm Nathaniel Joseph, a Bakend engineer.
 
 - 🌏 I'm mostly active within the JavaScript Community.
 
