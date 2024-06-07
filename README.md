@@ -1,5 +1,5 @@
 ### Hi there ✌, 
-### I'm Nathaniel Joseph, a Software Engineer.
+### I'm Nathaniel Joseph, a Frontend Developer.
 
 - 🌏 I'm mostly active within the JavaScript Community.
 
