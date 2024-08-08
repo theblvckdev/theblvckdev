@@ -1,15 +1,12 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Nathan</h1></summary>
   </ul>
 </div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -19,13 +16,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **`React`, `Nextjs`, `Nodejs`, `MongoDB`, `Express`**
+- 🔭 I’m currently working with **`React`, `Nextjs`, `Nodejs`, `Tailwindcss`, `Shadcn`**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in frontend-development. So,I'm **Alway leading new technologies** to stay updated
+- ☁️ I have a keen interest in front-end development. So, I'm **Alway leading new technologies** to stay updated
 
-- 💬 Ask me about **`React`, `Nextjs`, `Nodejs`, `MongoDB`, `Express`**
+- 💬 Ask me about **`React`, `Nextjs`, `Nodejs`, `Tailwindcss`, `Shadcn`** or any front-end related stuff 
 
 - 📫 Feel free to reach me out **nathancodes05@gmail.com**
 <!--Intro end-->
@@ -38,9 +35,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=theblvckdev&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theblvckdev&theme=dark&hide_border=false" /> 
 </td>
 
