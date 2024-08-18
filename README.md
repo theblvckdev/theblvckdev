@@ -22,7 +22,7 @@
 <!--profile visit count-->
 <div style="display: flex; gap: 10px;">
   
-[![wakatime](https://wakatime.com/badge/user/1910b482-4008-4b50-afc5-aa78fcabcbfd.svg)](https://wakatime.com/@1910b482-4008-4b50-afc5-aa78fcabcbfd)
-
+<!-- [![wakatime](https://wakatime.com/badge/user/1910b482-4008-4b50-afc5-aa78fcabcbfd.svg)](https://wakatime.com/@1910b482-4008-4b50-afc5-aa78fcabcbfd) -->
+ 
 </div>
 
