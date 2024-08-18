@@ -20,7 +20,9 @@
 
 
 <!--profile visit count-->
-<div>
+<div style="display: flex; gap: 10px;">
   
-[![](https://visitcount.itsvg.in/api?id=theblvckdev&icon=3&color=6)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/1910b482-4008-4b50-afc5-aa78fcabcbfd.svg)](https://wakatime.com/@1910b482-4008-4b50-afc5-aa78fcabcbfd)
+
 </div>
+
