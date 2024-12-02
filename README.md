@@ -5,20 +5,13 @@
   </ul>
 </div>
 
-
 <!--Intro start-->
 - 🔭 I’m currently working with **`React`, `Nextjs`, `Nodejs`, `Tailwindcss`, `Shadcn`**
-
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stacks for Scalable Applications.**
-
 - ☁️ I have a keen interest in front-end development. So, I'm **Alway learning new technologies** to stay updated
-
 - 💬 Ask me about **`React`, `Nextjs`, `Nodejs`, `Tailwindcss`, `Shadcn`** or any front-end related stuff 
-
 - 📫 Feel free to reach me out **nathancodes05@gmail.com**
 <!--Intro end-->
-
-
 <!--profile visit count-->
 <div style="display: flex; gap: 10px;">
   
