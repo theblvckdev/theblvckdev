@@ -7,8 +7,6 @@
 - ☁️ I have a keen interest in front-end development. So, I'm **Alway learning new technologies** to stay updated
 - 💬 Ask me about **`React`, `Nextjs`, `Nodejs`, `Tailwindcss`, `Shadcn`** or any front-end related stuff 
 - 📫 Feel free to reach me out **nathancodes05@gmail.com**
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theblvckdev&show_icons=true&locale=en&theme=onedark" alt="theblvckdev" /></p>
 <!--Intro end-->
 <!--profile visit count-->
 <div style="display: flex; gap: 10px;">
